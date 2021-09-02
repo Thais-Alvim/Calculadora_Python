@@ -1,1 +1,2 @@
 # Calculadora_Python
+O desenvolvimento do código foi realizado um fluxograma(1) no Draw.io. O código foi construído com base nos termos de conhecimento do curso da Dell. Com a problemática da saída retornar um número com várias casas decimais, foi usado o Round, o Replace para caso o usuário coloque vírgula ao invés de ponto e para complementar um pouco mais o código, pesquisei também sobre IF/ELSE para retornar ao usuário um dado mais completo do seu IMC.
